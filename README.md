@@ -1,2 +1,2 @@
 # COACHT-FIT
-Aplicación móvil desarrollada en Power Platform (PowerApps, Power BI, MicrosoftForms)
+Aplicación móvil desarrollada en Power Platform (PowerApps, Power BI, MicrosoftFlow)
